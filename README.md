@@ -1,7 +1,6 @@
 # ArbitrageBot
 ![alt text](https://investorjunkie.com/wp-content/uploads/2011/02/arbitrage-cufflinks.gif)
 
-Coded for functionality with python2.7+
 
 ```
 usage: arbbot.py [-h] [-s SYMBOL] [-b BASESYMBOL] [-r RATE] [-i INTERVAL]
